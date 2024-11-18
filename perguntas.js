@@ -1,33 +1,33 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Fatos sobre mim',
+    'Quem sou eu?',
+    'Sou uma menina de 16 anos chamada Mariana.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é JavaScript?',
-    'O JavaScript é uma linguagem de programação.'
+    'Fatos sobre mim',
+    'Minha família?',
+    'Minha família é composta por 5 integrantes.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é CSS?',
-    'O CSS é uma lingugem de estilização!'
+    'Fatos sobre mim',
+    'Onde moro?',
+    'Moro no inteiro do Paraná em uma cidade chamada Pinhão, locaizada no centro-oeste do estao. Latitude: -25.7073, Longitude: -51.6334 !'
 )
 
 criaCartao(
-    'Programação',
-    'O que é HTML?',
-    'O HTML é uma lingugem de estruturação e semântica do conteúdo.'
+    'Fatos sobre mim',
+    'Onde estudo?',
+    'No colégio estadual Professor Mario Evaldo Morski, possuindo ensino médio e fundamental'
 )
 criaCartao(
-    'Programação',
-    'O que é VSCode?',
-    'O Visual Studio Code é um editor de código com diversas integrações.s'
+    'Fatos sobre mim',
+    'Minha turma?',
+    'É composta por mais de 30 alunos, bem dividida e eu tenho duas amigas'
 )
 criaCartao(
-    'Programação',
-    'O que é GitHub?',
-    'O GitHub é uma plataforma de desenvolvimento colaborativo que aloja projetos na nuvem.'
+    'Fatos sobre mim',
+    'Meu sonho e futuro curso superior?',
+    'Sonho em conhecer diversos países ao redor do mundo,como países do oriente asiático. Curso penso em cursar farmácia..'
 )
